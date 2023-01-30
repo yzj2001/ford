@@ -1,11 +1,11 @@
 {
   "local_memory_node": {
-    "machine_num": 2,
+    "machine_num": 3,
     "machine_id": 0,
     "local_port": 12346,
     "local_meta_port": 12347,
     "use_pm": 1,
-    "mem_size_GB": 8,
+    "mem_size_GB": 16,
     "log_buf_size_GB": 1,
     "pm_root": "/dev/dax0.1",
     "workload": "TPCC"
